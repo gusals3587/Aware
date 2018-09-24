@@ -29,13 +29,10 @@ Copyright © 2016 Joshua Peek, Patrick Marsceill. All rights reserved.
 Aware, although it was originally built for 'session tracking', that is, it was for tracking how much time you spent with the computer "actively", I wanted it to be personal time tracking application, so I'm adding a couple of new features for my liking
 
 ## Features (or changes) implemented so far
-Shows how much time was spent today in total
-
+Shows how much time was spent today in total  
 A log txt file of how much time each was spent before the computer went to sleep
 
 ## Goals
-A nice, pretty GUI parser for the log file, showing how much time was spent day, month, year 
-
-(aiming for ios screentime asthetics)
-
+A nice, pretty GUI parser for the log file, showing how much time was spent day, month, year  
+(aiming for ios screentime asthetics)  
 Perhaps implementing application tracking w/ logo (although it'll be one heck of a challenge)
